@@ -1,0 +1,23 @@
+#container{
+   margin-top: 25px;
+   margin-right: 40px;
+   display: inline-grid;
+
+   border: 5px solid black;
+   border-radius: 5px;
+   height: 600px;
+   width: 600px;
+}
+#section{
+   display: flex;
+   justify-content: space-between;
+   
+}
+.box{
+   background-color: white;
+   border: 1px solid black;
+
+ }
+#row{
+   display: flex;
+}
